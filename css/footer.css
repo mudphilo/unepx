@@ -1,0 +1,97 @@
+.lightblue-footer{
+    height: 305px;
+    background: #0084b4;
+}
+.lightblue-footer .section-top{
+    height: 115px;
+    padding: 0;
+    border-bottom: 1px solid #dcdcdc;
+}
+.lightblue-footer .section-top .footer-logo{
+    padding: 0 !important;
+}
+.lightblue-footer .section-top .footer-logo img{
+    margin-top: 20px;
+    height: 90px;
+}
+.funfact{
+    border: 7px solid #fff;
+    margin-top: 40px;
+    height: 230px;
+    padding: 20px;
+}
+.funfact h4{
+    font-weight: 700;
+    font-size: 2em;
+    color: white;
+}
+.funfact p{
+    color: white;
+    font-size: 1.3em;
+}
+
+.section-bottom{
+    padding: 0 !important;
+}
+.section-bottom .main-three-options{
+    padding: 0 !important;
+}
+.section-bottom .main-three-options ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0 !important;
+}
+.section-bottom .main-three-options ul li{
+    float: left;
+    margin-right: 30px;
+}
+.section-bottom .main-three-options ul li a{
+    color: #fff;
+    font-size: 1.4em;
+    font-weight: 500;
+    text-decoration: none;
+    margin-top: 30px;
+    display: block;
+}
+.minor-options{
+    padding: 0;
+    margin-top: 10px;
+}
+.minor-options ul{
+    list-style-type: none;
+    padding: 0 !important;
+}
+.minor-options ul li{
+    float: left;
+}
+.minor-options ul li a{
+    color: white;
+    font-weight: normal;
+}
+.minor-options .text-links{}
+.minor-options .text-links li{
+    margin-right: 5px;
+    border-right: 1px solid #fff;
+    padding-right: 10px;
+    font-weight: 600;
+}
+.minor-options .text-links li:last-child{
+    border-right: none;
+}
+.minor-options .text-links li a{}
+
+.minor-options .icon-links{}
+.minor-options .icon-links li{
+    margin: 0 5px;
+}
+.minor-options .icon-links li a{
+    font-size: 1.4em;
+}
+.copyrightstatement{
+    color: #01adee;
+}
+.copyrightstatement span{
+    border-right: 1px solid;
+    padding-right: 7px;
+    margin-right: 5px;
+}

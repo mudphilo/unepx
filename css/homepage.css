@@ -1,0 +1,131 @@
+.homepage-container{
+    padding-top: 0;
+}
+.homepage-wrapper{
+    padding: 0 !important;
+}
+.homepage-left{
+    padding: 0 !important;
+}
+.homepage-right{
+    padding: 0 !important;
+}
+.homepage-left .top-left{
+    height: 440px;
+    overflow: hidden;
+}
+.homepage-left .top-left .banner-wrapper{
+    position: absolute;
+    top: 16em;
+    border: 4px solid white;
+    color: white;
+    padding: 15px;
+    left: 4em;
+    max-width: 405px;
+    padding-left: 20px;
+    background: rgba(0,0,0,0.2);
+}
+.homepage-left .top-left .subsection-title{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.homepage-left .top-left .title{
+    font-weight: 900;
+    font-size: 2.3em;
+    line-height: 1.3;
+}
+.homepage-left .bottom-left{
+    height: 260px;
+    overflow: hidden;
+}
+.homepage-left .bottom-left img{
+    object-fit: cover;
+    width: 100%;
+    height: 264px;
+}
+.homepage-left .bottom-left .banner-wrapper{
+    position: relative;
+    top: -200px;
+    width: 470px;
+    margin: 0 auto;
+}
+.homepage-left .bottom-left .banner-wrapper .title{
+    color: white;
+    font-weight: normal;
+    font-size: 1.7em;
+    line-height: 1.2;
+    margin-bottom: 10px;
+}
+.homepage-left .bottom-left .banner-wrapper .call-to-action{
+    font-weight: 700;
+    color: white;
+}
+.homepage-right .bottom-right{
+    height: 355px;
+    overflow: hidden;
+}
+.homepage-right .bottom-right .banner-wrapper{
+    position: relative;
+    top: -300px;
+    border: 4px solid white;
+    width: 273px;
+    margin-left: 3em;
+    color: white;
+    padding: 15px;
+    line-height: 1.2;
+}
+.homepage-right .bottom-right .banner-wrapper .title{
+    font-weight: bold;
+    font-size: 1.7em;
+    margin-bottom: 10px;
+}
+.homepage-right .bottom-right .banner-wrapper .call-to-action{
+    font-weight: 700;
+}
+.homepage-right .top-right{
+    height: 345px;
+    overflow: hidden;
+}
+.homepage-right .top-right img{
+    object-fit: cover;
+    height: 345px;
+    width: 100%;
+}
+.homepage-right .top-right .banner-wrapper{
+    position: absolute;
+    top: 8em;
+    border: 4px solid white;
+    width: 277px;
+    margin-left: 3em;
+    color: white;
+    padding: 10px;
+    background: rgba(0,0,0,0.2);
+}
+.homepage-right .top-right .banner-wrapper .title{
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 1.6em;
+}
+.homepage-right .top-right .banner-wrapper .call-to-action{
+    font-weight: 700;
+}
+.homepage-right .top-right .banner-wrapper .call-to-action i{
+    font-size: 1.7em;
+}
+.homepage-footer{
+    position: relative;
+    top: -25px;
+}
+.homepage-footer span{
+    color: #bcbcbc;
+    border-right: 2px solid #bcbcbc;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+.homepage-footer span:last-child{
+    border-right: none;
+}
+
+.img-responsive {
+    width: 100% !important;
+}
