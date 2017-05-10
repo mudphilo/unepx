@@ -320,32 +320,32 @@ header{
     line-height: 1;
 }
 
-.problem-statement{
+.section-first{
     padding-top: 30px;
     background: white;
 }
 
-.problem-statement .challenges{
+.section-first .challenges{
     max-width: 1240px;
     min-height: 600px;
     margin-right: auto;
     margin-bottom: 150px;
     margin-left: auto;
 }
-.problem-statement .challenge-img-cluster {
+.section-first .challenge-img-cluster {
     position: relative;
     width: 50%;
     float: right;
     text-align: center;
 }
-.problem-statement .challenge-text-wrap {
+.section-first .challenge-text-wrap {
     width: 515px;
     -webkit-transform: translate(0px, 0px);
     -ms-transform: translate(0px, 0px);
     transform: translate(0px, 0px);
     color: #01724c;
 }
-.problem-statement .green-bar {
+.section-first .green-bar {
     width: 140px;
     height: 8px;
     margin-bottom: 20px;
@@ -355,7 +355,7 @@ header{
     -ms-transform: translate(-10px, 0px);
     transform: translate(-10px, 0px);
 }
-.problem-statement .noto-headline.green {
+.section-first .noto-headline.green {
     margin-top: 0px;
     opacity: 0;
     -webkit-transform: translate(-10px, 0px);
@@ -363,7 +363,7 @@ header{
     transform: translate(-10px, 0px);
     color: #01724c;
 }
-.problem-statement .noto-headline {
+.section-first .noto-headline {
     /*font-family: 'Notosans bold', sans-serif;*/
     color: #000;
     font-size: 48px;
@@ -371,10 +371,10 @@ header{
     text-transform: uppercase;
     font-weight:700;
 }
-.problem-statement .noto-paragraph{
+.section-first .noto-paragraph{
     font-size: 1.6em;
 }
-.inline-image-banner{
+.section-second{
     padding: 0;
 }
 .challenge-icon-1 {
@@ -431,7 +431,7 @@ header{
     -ms-transform: scale(0.9);
     transform: scale(0.9);
 }
-.dot-mask-1 {
+.dotted-mask-1 {
     position: absolute;
     left: -431px;
     top: 293px;
@@ -445,7 +445,7 @@ header{
     transform: rotate(-20deg);
     display: none;
 }
-.dot-mask-2 {
+.dotted-mask-2 {
     position: absolute;
     left: -147px;
     top: 391px;
@@ -457,7 +457,7 @@ header{
     -ms-transform: rotate(-40deg);
     transform: rotate(-40deg);
 }
-.dot-mask-3 {
+.dotted-mask-3 {
     position: absolute;
     left: 125px;
     top: 376px;
@@ -469,7 +469,7 @@ header{
     -ms-transform: rotate(-83deg);
     transform: rotate(-83deg);
 }
-.dot-mask-4 {
+.dotted-mask-4 {
     position: absolute;
     left: 305px;
     top: 307px;
@@ -482,7 +482,7 @@ header{
     transform: rotate(33deg);
     display: none;
 }
-.dot-mask-5 {
+.dotted-mask-5 {
     position: absolute;
     left: 352px;
     top: 90px;

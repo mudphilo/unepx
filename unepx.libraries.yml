@@ -7,8 +7,12 @@ global-styling:
       css/vendor/slick.css: {}
       css/style.css: {}
       css/homepage.css: {}
-      css/nav.css: {}
+      css/navigation.css: {}
       css/footer.css: {}
+      css/sliders.css: {}
+      css/region.css: {}
+      css/work.css: {}
+      css/menu-item.css: {}
 global-scripts:
   js:
     js/vendor/angular.min.js: {}

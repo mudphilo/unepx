@@ -1,0 +1,369 @@
+.footer-region{
+    background: #04445a;
+    height: 240px;
+}
+.regionalchallenge{
+    background: white;
+}
+.green-section{
+    height: 280px;
+    background: #00734f;
+    padding-top: 30px;
+}
+.region-message-wrapper{
+    position: absolute;
+    top: 0;
+    color: white;
+    padding-left: 40px;
+    margin-top: 5em;
+    margin-left: 5em;
+}
+.region-message-wrapper span:first-child{
+    display: block;
+    font-size: 4.1em;
+    font-weight: bold;
+}
+.region-message-wrapper p{
+    max-width: 700px;
+    font-size: 2.1em;
+}
+
+.green-section .single-data:first-child{
+    border-right: 1px solid white;
+}
+.single-data span{
+    color: white;
+    font-size: 1.8em;
+    font-weight: 400;
+    margin-top: 40px;
+    float: left;
+    display: block;
+    max-width: calc(100% - 225px);
+}
+.single-data img{
+    height: 175px;
+    float: left;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.whatcanido{
+    height:760px;
+    background: #0581b0;
+}
+.whatcanido .section-title{
+    color: white;
+    margin-top: 45px;
+    font-size: 2.5em;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.whatcanido .campaign{
+    border-right: 1px solid #dcdcdc;
+    padding: 0 25px;
+}
+.whatcanido .campaign img{
+    max-height: 490px;
+}
+.socialmediabuttons a{
+    background: #47a143;
+    max-width: 300px;
+    display: block;
+    float: left;
+    width: 300px;
+    margin-right: 20px;
+    height: 50px;
+    margin-top: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-top: 15px;
+}
+.buttons-wrapper{
+    height: 70px;
+    max-width: 650px;
+    margin: 0 auto;
+}
+.buttons-wrapper a i{
+    margin-right: 15px;
+    font-size: 1.3em;
+}
+.aboutoffice{
+    background: #f2f2f2;
+    padding-top: 55px;
+    padding-bottom: 55px;
+}
+.aboutoffice p {
+    font-size: 1.4em;
+}
+.contact-details img{
+    max-height: 210px;
+    width: 100%;
+    object-fit: cover;
+}
+.contact-details .linkto{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    height: 35px;
+    padding: 0 10px;
+    color: #0084b4;
+    font-size: 1.3em;
+    font-weight: 500;
+}
+.contact-details ul{
+    list-style-type: none;
+    padding: 0 10px;
+}
+.contact-details ul li{
+    height: 40px;
+}
+.contact-details ul li i{
+    font-size: 1.6em;
+    margin-right: 15px;
+    margin-top: 5px;
+    float: left;
+    color: #aaaaaa;
+}
+.contact-details ul li span{
+    font-size: 1.4em;
+}
+.contact-details .address{
+    padding: 0 10px;
+    margin-bottom: 10px;
+    font-size: 1.3em;
+}
+.regionalchallenge h4{
+    text-transform: uppercase;
+    margin-top: 18px;
+    font-size: 1.8em;
+    color: #777;
+    font-weight: 300 !important;
+}
+.regionalchallenge .blue-intro{
+    font-weight: bold;
+    color: #0581b0;
+    font-size: 2.8em;
+    margin-bottom: 20px;
+    line-height: 1.2;
+}
+.regional-work-intro {
+    position: relative;
+    margin-right: auto;
+    margin-bottom: 35px;
+    margin-left: auto;
+}
+.regionalchallenge .black-intro{
+    font-size: 2.1em;
+    margin-bottom: 12px;
+}
+.regionalchallenge .inner{
+    margin-top: 60px;
+    margin-bottom: 85px;
+    border-bottom: 1px solid #ccc;
+}
+.the-tiger img{
+    margin-bottom: 0px;
+}
+.green-selector{
+    border-radius: 0;
+    border: 3px solid #097855;
+    padding: 2px;
+}
+.regional-work-intro .see-work-wrap{
+    width: 25%;
+    padding: 0px 0px 20px 40px;
+    float: right;
+    margin-top: -15px;
+}
+.regional-work-intro .see-work-wrap p{
+    font-size: 1.2em;
+    font-weight: 600;
+}
+.sustainability-badge{
+    padding-left: 35px;
+}
+.sustainability-badge .s_title{
+    color: white;
+    font-size: 2em;
+    font-weight: 600;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+.sustainability-badge .s_body{
+    color: white;
+    font-size: 1.4em;
+    margin-bottom: 20px;
+}
+.sustainability-badge .s_cta{
+    color: white;
+    font-weight: bold;
+    margin-top: 6px;
+}
+.article-large img{
+    height: 315px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.article-large .content-type{
+    margin-top: 10px;
+    color: grey;
+    font-size: 1.4em;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 10px;
+    height: 30px;
+}
+.article-large .title{
+    margin-bottom: 30px;
+    font-size: 3em !important;
+    font-weight: bold;
+}
+.single-article img{
+    height: 315px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.single-article .content-type{
+    margin-top: 15px;
+    color: #656565;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-bottom: 0px;
+    height: 30px;
+}
+.single-article .title{
+    margin-bottom: 10px;
+    font-size: 2.3em;
+    font-weight: 700;
+    line-height: 1.2;
+}
+.event-time{
+    font-style: italic;
+    font-size: 1.3em;
+    margin-bottom: 10px;
+}
+.additional-action{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    float: right;
+    clear: both;
+    font-weight: 500;
+}
+.latestnews{
+    background: white;
+    padding-bottom: 40px;
+}
+.latestnews h4{
+    margin: 40px 0;
+    padding: 0 15px;
+    font-size: 2.3em;
+    font-weight:normal !important;
+}
+.our-regional-work h4{
+    font-weight: 300;
+    text-transform: uppercase;
+    color: grey;
+    font-size: 1.8em;
+    padding-left: 15px;
+}
+.newsletter-wrapper{
+    height: 100%;
+    max-width: 750px;
+    margin: 0 auto;
+    color: white;
+    padding-top: 15px;
+}
+.newsletter-wrapper .icon{
+    font-size: 4em;
+    padding-top: 50px;
+}
+.newsletter-wrapper img{
+    height:140px;
+}
+.newsletter-form-wrapper{
+    margin-top: 25px;
+}
+.newsletter-wrapper .section-title{
+    font-size: 2em;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+.newsletter-form .input-lg{
+    border-radius: 0;
+    float: left;
+    width: 70%;
+}
+.newsletter-form span{
+    display: block;
+    width: 25%;
+    float: right;
+    background: #4c9f38;
+    text-align: center;
+    height: 45px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 13px;
+}
+.expert-section .bottom-section{
+    background: #0581b0;
+    margin-top: -15px;
+    padding: 15px;
+    color: white;
+}
+.push-to-play{
+    height: 40px;
+    margin-top: 6px;
+    clear: both;
+    padding-top: 10px;
+}
+.push-to-play .fa-play{
+    font-size: 1.6em;
+    margin-right: 10px;
+    float: left;
+}
+.push-to-play .fa-circle-o{
+    font-size: 1.4em;
+    margin-left: 10px;
+    float: left;
+    z-index: 4;
+    position: relative;
+}
+.push-to-play .trend{
+    width: 185px;
+    display: block;
+    float: left;
+    border-bottom: 5px solid #3599ee;
+    border-radius: 3px;
+    margin-top: 7px;
+    margin-left: -2px;
+    margin-right: 5px;
+    position: relative;
+    z-index: 3;
+}
+.push-to-play .duration{
+    float: right;
+}
+.expert-name{
+    font-style: italic;
+    font-size: 1.4em;
+}
+.office-nav span{
+    font-weight: bold;
+    font-size: 2em;
+    margin-right: 25px;
+    margin-bottom: 20px;
+    display: block;
+    float: left;
+}
+.office-nav span:last-child{
+    border-bottom: 5px solid #0084b4;
+    padding-bottom: 5px;
+}
+.office-details li{
+    font-size: 1.4em;
+}

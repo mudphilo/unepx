@@ -1,16 +1,16 @@
-.lightblue-footer{
+.footer-light{
     height: 305px;
     background: #0084b4;
 }
-.lightblue-footer .section-top{
+.footer-light .section-top{
     height: 115px;
     padding: 0;
     border-bottom: 1px solid #dcdcdc;
 }
-.lightblue-footer .section-top .footer-logo{
+.footer-light .section-top .footer-logo{
     padding: 0 !important;
 }
-.lightblue-footer .section-top .footer-logo img{
+.footer-light .section-top .footer-logo img{
     margin-top: 20px;
     height: 90px;
 }
@@ -87,10 +87,10 @@
 .minor-options .icon-links li a{
     font-size: 1.4em;
 }
-.copyrightstatement{
+.copyrights{
     color: #01adee;
 }
-.copyrightstatement span{
+.copyrights span{
     border-right: 1px solid;
     padding-right: 7px;
     margin-right: 5px;

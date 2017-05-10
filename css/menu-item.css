@@ -1,0 +1,139 @@
+.resource-work{
+    background: #00734f;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    margin-bottom: 40px;
+}
+.resource-challenge{
+    width: 640px;
+    padding-right: 15px;
+    color: white;
+    height: 360px;
+}
+.resource-challenge h4{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1.6em;
+    margin-bottom: 15px;
+}
+.resource-challenge p{
+    font-size: 2.3em;
+    font-weight: 700;
+}
+#resourceslider .single-news{
+    transform: none;
+    height: 380px;
+    width: 420px;
+    background: white;
+}
+#resourceslider .single-news h5{
+    background: #00734f;
+    margin: 0;
+    color: white;
+    font-size: 1.4em;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding-bottom: 20px;
+    height: 41px;
+}
+#resourceslider .single-news:hover{
+    transform: none;
+    height: 380px;
+    width: 420px;
+    margin-top: 0;
+}
+.bubblegum .section_title{
+    font-size: 2em;
+    margin-bottom: 15px;
+}
+.bubble_wrapper{
+    margin-bottom: 30px;
+    padding-top: 15px;
+}
+.bubble
+{
+    position: relative;
+    min-height: 120px;
+    color: #01adee;
+    font-weight: 600;
+    font-size: 1.1em;
+    padding: 20px;
+    background: #f2f2f2;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+
+.bubble:after
+{
+    content: '';
+    position: absolute;
+    border-style: solid;
+    border-width: 25px 17px 0;
+    border-color: #f2f2f2 transparent;
+    display: block;
+    width: 0;
+    z-index: 1;
+    bottom: -24px;
+    left: 16px;
+}
+.bubble_right:after
+{
+    right: 16px;
+    left: 360px;
+}
+.askbutton{
+    background: #47a143;
+    max-width: 200px;
+    margin: 0 auto;
+    margin-top: 35px;
+    height: 40px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    padding-top: 9px;
+}
+.expert_name {
+    height: 40px;
+    padding-top: 5px;
+    padding-left: 65px;
+}
+.topic-wrapper .message-wrapper{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(0,0,0,0.3);
+}
+.topic-wrapper .message-wrapper .topic-name{
+    margin-top: 25px;
+    font-size: 3em;
+    font-weight: 900;
+}
+.topic-wrapper .message-wrapper p{
+    max-width: 752px;
+    font-size: 2em;
+    margin-top: 10px;
+}
+.topic-wrapper .message-wrapper .cta{
+    background: #47a143;
+    height: 50px;
+    max-width: 380px;
+    overflow: hidden;
+    padding: 0 10px;
+}
+.topic-wrapper .message-wrapper .cta i{
+    font-size: 3em;
+    float: left;
+    margin-top: 4px;
+}
+.topic-wrapper .message-wrapper .cta span{
+    font-family: Open Sans;
+    font-size: 1.4em;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: block;
+    float: right;
+    padding-top: 15px;
+}
