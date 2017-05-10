@@ -65,3 +65,12 @@
 .roleslider .single-news:hover .description{
     display: block;
 }
+
+.unep-role-round-2 {
+    position: relative;
+    z-index: 50;
+    margin-top: -40px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background-color: #fff;
+}
